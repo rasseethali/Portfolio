@@ -23,7 +23,7 @@ const Contact = () => {
           className="flex flex-col items-center gap-3 bg-gray-50 hover:bg-indigo-50 border border-gray-100 p-6 rounded-xl shadow-sm hover:shadow-lg transition-all"
         >
           <Mail className="w-8 h-8 text-indigo-600" />
-          <p className="font-medium text-gray-800">raseeth46@gmail.com</p>
+          <p className="font-medium text-gray-800">raseethali46@gmail.com</p>
         </a>
 
         {/* Phone */}

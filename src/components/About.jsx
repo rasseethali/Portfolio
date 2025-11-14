@@ -2,7 +2,7 @@
 
 import React from "react";
 import ProfilePic from "../assets/its-me.jpg"; // make sure file name matches
-import Resume from "../assets/resume.pdf";
+import Resume from "../assets/Resume.pdf";
 
 const About = () => {
   return (
